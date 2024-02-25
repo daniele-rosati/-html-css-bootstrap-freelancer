@@ -1,0 +1,47 @@
+/* ---- GENERAL ---- */
+img {
+    max-width: 100%
+}
+
+/* ---- GENERAL ---- */
+
+/* ---- BACKGROUND ---- */
+.ms-bg-darkblue {
+    background-color: #2c3e50;
+}
+
+.ms-bg-acquamarine {
+    background-color: #1abc9c;
+}
+
+.ms-bg-blue {
+    background-color: #3a546d
+}
+
+/* ----- BACKROUND ---- */
+
+/* ---- TYPOGRAPHY ---- */
+.ms-text-acquamarine {
+    color: #1abc9c;
+}
+
+/* ---- TYPOGRAPHY ---- */
+
+/* ---- MAIN ---- */
+
+/* ---- HERO ---- */
+.hero img {
+    max-width: 50%;
+}
+
+/* ---- HERO ---- */
+
+/* ---- MAIN ---- */
+
+
+@media screen and (min-width:768px) {
+    .hero img {
+        max-width: 20%;
+    }
+}
+
